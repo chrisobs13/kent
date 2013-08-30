@@ -16,7 +16,7 @@
     	<div id="nav-bar">
         <p>
         <a href="index.php">home</a>
-        <a href="services.php">services</a>
+        <a href="about.php">about</a>
         <a href="portfolio.php">portfolio</a>
         <a href="testimonials.php">testimonials</a>
 		<a href="contact-us.php">contact us</a>
