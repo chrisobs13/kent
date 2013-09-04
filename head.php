@@ -10,6 +10,7 @@
 <!--<script type="text/javascript" src="js/respond.min.js"></script>-->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
 <script type="text/javascript" src="js/slideshow.js"></script>
+<script type="text/javascript" src="js/login.js"></script>
 <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.8/jquery.validate.min.js"></script> 
   <script>
   $(document).ready(function(){

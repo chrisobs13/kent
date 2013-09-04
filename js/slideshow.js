@@ -16,6 +16,6 @@ function rotatePics(currentPhoto) {
       );
     });
     $(this).show();
-    setTimeout(function() {rotatePics(++currentPhoto);}, 2000);
+    setTimeout(function() {rotatePics(++currentPhoto);}, 3000);
   });
 }
